@@ -58,7 +58,8 @@ header > h1 {
   font-family: cursive;
   font-weight: bold;
 }
-
+.choice-container{
+display:flex}
 .choice {
   border: transparent;
   border-radius: 50%;
